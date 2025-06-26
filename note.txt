@@ -22,3 +22,8 @@ first time pushing code on github command
 
 pushing code on github since the second time
 - git push 
+
+3 steps to push code on github
+step 1: git add . (push changes in file to staging area)
+step 2: git commit -m "content of message" (create a historical version of our code)
+step 3: run 1 in 2 git commands: git push -u origin + branch name (if this is the first time pushing code to the remote repo github) or git push (if has already pushed the code to repo once)
