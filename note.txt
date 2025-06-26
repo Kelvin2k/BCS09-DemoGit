@@ -1,0 +1,2 @@
+command line initialize local repository
+- git init
