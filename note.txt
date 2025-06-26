@@ -10,3 +10,15 @@ check all file that are in the staging area
 
 command create a commit (historical version)
 - git commit -m "content of message"
+
+connect local repository to remote repository
+- git remote add origin https link (https://github.com/Kelvin2k/BCS09-DemoGit.git)
+
+first time push
+push -u origin main
+
+first time pushing code on github command
+- git push -u origin (branch, can be seen at the bottom left of VS)
+
+pushing code on github since the second time
+- git push 
