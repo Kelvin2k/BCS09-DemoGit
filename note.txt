@@ -1,2 +1,12 @@
 command line initialize local repository
 - git init
+
+command push file that has changes to staging area 
+- git add (file name)
+- git add . (push all file instantly)
+
+check all file that are in the staging area
+-git status
+
+command create a commit (historical version)
+- git commit -m "content of message"
