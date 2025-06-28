@@ -31,3 +31,8 @@ step 1: git add . (push changes in file to staging area)
 step 2: git commit -m "content of message" (create a historical version of our code)
 step 3: run 1 in 2 git commands: git push -u origin + branch name (if this is the first time pushing code to the remote repo github) or git push (if has already pushed the code to repo once)
 
+when doing the project, when you open project to code, remember to pull the code from main with command: git pull origin main
+then you resolve conflict if there has some
+then you commit -m "handle conflict"
+then you push
+then you can start working now
