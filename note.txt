@@ -36,3 +36,7 @@ then you resolve conflict if there has some
 then you commit -m "handle conflict"
 then you push
 then you can start working now
+
+Dealing with branch
+create then switch to that branch
+code sth then git add and commit-m then git push for the first time: git push -u origin (branch name) 
