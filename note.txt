@@ -9,7 +9,8 @@ check all file that are in the staging area
 -git status
 
 command create a commit (historical version)
-- git commit -m "content of message"
+- git commit -m "content of messages"
+
 
 connect local repository to remote repository
 - git remote add origin https link (https://github.com/Kelvin2k/BCS09-DemoGit.git)
